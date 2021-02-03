@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/timbregirlelevator.mp3"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,

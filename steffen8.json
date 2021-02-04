@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"manonthehill.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

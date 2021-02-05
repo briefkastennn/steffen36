@@ -68,10 +68,10 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"mp3\/manonthehill.mp3"
+                 "value":"mp3\/gangway.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":"manonthehill.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
